@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No Parliament without a king: or, The soveraigns person is required in the great councels or assemblies of the state, aswell [sic] at the consultations as at the conclusions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89705</idno>
+            <idno type="STC">Wing N1186</idno>
+            <idno type="STC">Thomason E87_3</idno>
+            <idno type="STC">ESTC R19245</idno>
+            <idno type="EEBO-CITATION">99860622</idno>
+            <idno type="PROQUEST">99860622</idno>
+            <idno type="VID">112746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112746)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E87[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No Parliament without a king: or, The soveraigns person is required in the great councels or assemblies of the state, aswell [sic] at the consultations as at the conclusions.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Leonard Lichfield, Printer to the University,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:112746:1"/>
+            <pb n="3" facs="tcp:112746:1"/>
+            <head>NO PARLIAMENT Without A KING.</head>
+            <p>SInce of theſe Aſſemblies few Dieries or ex<g ref="char:EOLhyphen"/>act Journall Books are remaining, and thoſe but of late, and negligently entered, the Acts and Ordinances onely reported to poſterity are the Rolls.</p>
+            <p>This Queſtion (though cleer) in generall rea<g ref="char:EOLhyphen"/>ſon and convenience muſt be wrought out of ſuch incident proofs, as the monument of ſtory and Re<g ref="char:EOLhyphen"/>cords by pieces learne us: and to deduce it the cleerer down, ſome eſſentiall circumſtances of name, time, place, occaſion, and perſon muſt be in generall ſhortly touched, before the force of particular proofs be layd down.</p>
+            <p>This Noble body of the State (now called the Houſes of Parliament) is knowne in ſeverall ages by ſeverall names.</p>
+            <pb n="4" facs="tcp:112746:2"/>
+            <p>
+               <hi>Concilia,</hi>
+               <note place="margin">Ex concilliis Reg: Saxon: Cantuar</note> the Councells in the eldeſt times, af<g ref="char:EOLhyphen"/>terwards, <hi>Magnum, Commune &amp; generale Concillium, Curia magna capitalis &amp; curia Regis,</hi> ſometimes, <hi>ge<g ref="char:EOLhyphen"/>nerale placitum,</hi>
+               <note place="margin">Glanvile<g ref="char:punc">▪</g>
+               </note> and ſometimes <hi>Synodus,</hi> and <hi>Syno<g ref="char:EOLhyphen"/>dalia decreta,</hi>
+               <note place="margin">Leges Ethel<g ref="char:EOLhyphen"/>dredi Regis:</note> although aſwell the cauſes of the Common-wealth as Church were there decided.</p>
+            <p>The Name of Parliament (except in the Ab<g ref="char:EOLhyphen"/>botts Chapters) was never heard of unto the Raign of King <hi>John,</hi>
+               <note place="margin">Ingulphus Croylanden:</note> and then but rarely.</p>
+            <p>At the Kings Court thoſe Conventions were uſually,<note place="margin">Regiſt: Mo<g ref="char:EOLhyphen"/>naſter</note> and the preſence, Privy-chamber, and o<g ref="char:EOLhyphen"/>ther Rooms convenient for the Kings in former times (as now) then uſed; for what is the pre<g ref="char:EOLhyphen"/>ſent Houſe of Lords but ſo at this day, and was before the firing of the Palace at <hi>Westminſter,</hi> a<g ref="char:EOLhyphen"/>bout 17. <hi>Hen.</hi> 8, who then and there recided.</p>
+            <p>Improbable it is to believe the King excluded his own preſence, and unmannerly it is for gueſts to barre him their company, who gave to them their intertainment.</p>
+            <p>It was at firſt (as now) <hi>Edicto principis,</hi> at the Kings pleaſure, <hi>Regist: Elenſe.</hi>
+            </p>
+            <p>Towards the end of the <hi>Saxon,</hi>
+               <note place="margin">Amnles Mon</note> and in the firſt time of the <hi>Norman</hi> King, it ſtood in Cuſtome<g ref="char:EOLhyphen"/>grace, in Eaſter, Witſuntide, and Chriſtma, fixed, the Biſhops, Earls, and Lords <hi>(ex more)</hi> then aſſem<g ref="char:EOLhyphen"/>bled, ſo are the frequent words in all the Annalls;<note place="margin">Lib: de bello:</note> the Kings of courſe veſted with his Imperiall Crown by the Biſhop, and the Peers aſſembling, in Recognition of their obliged faith;<note place="margin">Regiſt: Wig<g ref="char:punc">▪</g>
+               </note> preſent duty,
+<pb n="5" facs="tcp:112746:2"/>and ſervice, untill the unſafe time of King <hi>John,</hi> (by over potent and popular Lords) gave diſcoun<g ref="char:EOLhyphen"/>tenance to this conſtant grace of Kings; and then it returned to the uncertaine pleaſure of the So<g ref="char:EOLhyphen"/>veraigne ſummons.</p>
+            <p>The cauſes then (as now of ſuch Aſſemblies, were proviſion for the ſupport of the State;<note place="margin">Mat: Paris:</note> or men and money, and well ordering of the Church and Common-wealth, and determining of ſuch Cauſes which ordinary Courts <hi>neſciebunt judicare</hi> (as <hi>Glanvill</hi> the grand Judge under <hi>Hen.</hi> 2. ſaith) where the Preſence of the King was ſtill required, it being otherwiſe abſurd, to make the King aſſent to the judgement of Parliament, and afford him no part of the conſultation.</p>
+            <p>The neceſſities hereof is well and fully deduct<g ref="char:EOLhyphen"/>ed unto us in a reverend monument, not farre from that grave mans time, in theſe words, <hi>Rex tenetur omn mido perſonal ter intereſſe Parliamento, niſi per corporalem aegritudinem detineatur;</hi> and then to ac<g ref="char:EOLhyphen"/>quaint the Parliament of ſuch occaſion by ſeverall Members of either Houſe, <hi>Cauſa eſt, quod ſolebat clamor &amp; rumor eſſe pro abſentia Regis, quia res dam<g ref="char:EOLhyphen"/>noſa &amp; periculoſa eſt toti communitati, Parliamen<g ref="char:EOLhyphen"/>to &amp; Regno, cum Rex a Parliamento abſens fuerit, nec ſe abſentare debet, nec poteſt, niſi duntaxat in cauſâ ſupra<g ref="char:EOLhyphen"/>dictâ.</hi>
+            </p>
+            <p>By this appears the deſire of the State to have the Kings preſence in theſe great Councells, by expreſſe neceſſity.</p>
+            <p>I will now endeavour to lead the practiſe of it,
+<pb n="6" facs="tcp:112746:3"/>from the dark and eldeſt times, to theſe no leſſe neglected of ours.</p>
+            <p>From the year 720, to near 920, during all the Heptarchy, in all the Counſell remaining, com<g ref="char:EOLhyphen"/>poſed <hi>Ex Epiſcopis, Abbatibus, Ducibus, Satrapis &amp; omni dignitate Optimatibus Eccleſiaſticis &amp; Secularibus perſonis pro utilitate Eccleſiae &amp; ſtabilitate Regni per<g ref="char:EOLhyphen"/>tractatum.</hi> Seven of them are <hi>Rege praeſidente,</hi> and but one by deputy; and incongruous it were, and almoſt <hi>nonſenſe</hi> to bar his preſence, that is Preſident of ſuch an Aſſembly.</p>
+            <p>The <hi>Saxon</hi> Monarchy under <hi>Alfred, Etheldred,</hi>
+               <note place="margin">Ex Synodis, et Legibus Alfre<g ref="char:EOLhyphen"/>di, Etheldredi, et Edgari</note> 
+               <hi>Edgar</hi> in their Synods or <hi>placita generalia,</hi> went in the ſame practiſe and ſince. Thus <hi>Ethelwold</hi> ap<g ref="char:EOLhyphen"/>pealed Earle <hi>Leofrick</hi> from the County <hi>ad ge<g ref="char:EOLhyphen"/>nerale placitum</hi> before King <hi>Etheldred</hi> and <hi>Edgyra</hi> the Queen, againſt Earl <hi>Goda,</hi> to <hi>Eldred</hi> the King at <hi>London, Congregatis principibus &amp; ſapientibus Angliae.</hi>
+            </p>
+            <p>In the year 1052, under <hi>Edward</hi> the <hi>Confeſſor, Statutum eſt placitum magnum extra Londinum,</hi>
+               <note place="margin">Geſta Ed: Ga<g ref="char:EOLhyphen"/>lice.</note> 
+               <hi>quod Normani (ex Francorum conſuetudine) Parliamentum appellant,</hi> where the King and all his Barons appea<g ref="char:EOLhyphen"/>led, <hi>Godwyn</hi> for his brother <hi>Alrveds</hi> death. The Earle denyed it, and the King replyed thus; My Lords you that are my Liege-men, Earles and Barons of the Land here aſſembled together, have heard my appeale and his anſwer, unto you be it left to doe right betwixt us.</p>
+            <p>At the great Councell at <hi>Weſtminſter</hi> 1072.<note place="margin">Regiſt: Can<g ref="char:EOLhyphen"/>tuar:</note> in Eaſter week, the cauſe of the two Archbiſhops
+<pb n="7" facs="tcp:112746:3"/>
+               <hi>Lanfrank</hi> and <hi>Thomas, Ventilata fuit in preſentia Regis Gulielm.</hi> and after at <hi>Windſor, finem accepit in preſen<g ref="char:EOLhyphen"/>tia Regis.</hi>
+            </p>
+            <p>At the ſame Feaſt <hi>Anno</hi> 1081. the uſuall time of ſuch Aſſemblies, the King, the Archbiſhops, Biſhops, Abbots, Earls, and chief Nobility of the Kingdom were preſent, for ſo are the words of the Record. The cauſe between <hi>Arſaſt</hi> Biſhop of Norway and <hi>Baldwyn</hi> Abbot of Burie,<note place="margin">Regiſt: Sanct: Edmundi:</note> was al<g ref="char:EOLhyphen"/>ſo argued; <hi>Et ventilata publico Rex jubet teneri ju<g ref="char:EOLhyphen"/>dicium cauſis auditis amborum.</hi>
+            </p>
+            <p>The diligence of his ſon (the learned <hi>Henry</hi> the firſt) in executing of this part of the Kingly fun<g ref="char:EOLhyphen"/>ction, is commended to poſterity by <hi>Walter Naps,</hi>
+               <note place="margin">Walter: Map<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> (a learned man trayned up, and deare in favour with <hi>Hen.</hi> the ſecond) in theſe words: <hi>Omnia Re<g ref="char:EOLhyphen"/>gali more decenti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> moderamine faciebat, neminem vo<g ref="char:EOLhyphen"/>lebat egere juſtitia vel pace; conſbituerat autem ad tran<g ref="char:EOLhyphen"/>quillitatem omnium, ut diebus vocationis, vel in domo magna ſub dio copiam ſui faceret uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad horam ſextam,</hi> (which was till 12. as we now account) <hi>ſecum ha<g ref="char:EOLhyphen"/>bens Comites, Barones, Proceres, &amp; vavaſores,</hi>
+               <note place="margin">Hen Hunting Malmsbury:</note> to hear and determine cauſes, whereby he attained the ſir<g ref="char:EOLhyphen"/>name of <hi>Leo Juſtitia</hi> in all Stories; and ſo out-went (an quite quiddance of theſtate) his beſtprogenitors.</p>
+            <p>The next of his name that ſucceeded, is remem<g ref="char:EOLhyphen"/>bered every where for the debates and diſputes he heard in perſon with <hi>Thomas</hi> the Archbiſhop, and others of his part, at the greateſt Councells, both at <hi>London, Clarendon,</hi> and <hi>Northampton,</hi> for
+<pb n="8" facs="tcp:112746:4"/>the redreſſe of the many complaints of the Com<g ref="char:EOLhyphen"/>mons againſt out-rages, and exortions of Clergy<g ref="char:EOLhyphen"/>men.</p>
+            <p>In the yeer 1057. <hi>Die Penticoſtae, apud</hi> S. <hi>Edmun<g ref="char:EOLhyphen"/>dum,</hi> the ſame King, <hi>(diademate inſignitus)</hi> with the Biſhops,<note place="margin">Regiſt: Mo<g ref="char:EOLhyphen"/>naſt de belle:</note> Abbotts, Earles, and Barons of the King<g ref="char:EOLhyphen"/>dome, ſate daily himſelfe and heard all the de<g ref="char:EOLhyphen"/>bates concerning the Liberties and Charters of <hi>Batteli Abbie:</hi> the interlocutory ſpeeches aſwell of the King as the Lords, and parties are at full rela<g ref="char:EOLhyphen"/>ted in a Regiſter of the Church.</p>
+            <p>The ſuit between the Church of <hi>Lincoln</hi> and S. <hi>Albans,</hi>
+               <note place="margin">Regiſt: Linc:</note> 
+               <hi>in praeſentia Regis H. Archi-epiſcoporum, E<g ref="char:EOLhyphen"/>piſcoporum omnium Angliae, &amp; comitatum &amp; Baro<g ref="char:EOLhyphen"/>num Regni,</hi> was at <hi>Weſtminſter</hi> debated and ended, and had the love of memory and truth bin a Prote<g ref="char:EOLhyphen"/>ctor to the publick Records of the State, as the awe of the Clergy cenſure, was a guard to theirs in tempeſteous times, we had not been left to the friendſhip of <hi>Munks</hi> diligence for example in this kind.</p>
+            <p>At <hi>Lincolne</hi> the Archbiſhop, ſome Biſhops, but all the Earles and Barons of the Kingdome, <hi>Vna cum Rege Joanne congregati ad colloquium de concor<g ref="char:EOLhyphen"/>dia Regis Scotiae</hi> (ſaith a Regiſter of that Church.)</p>
+            <p>This uſe under King <hi>Hen.</hi> 3. needeth no farther proof than the Writt of Summons, then (as ſome report) framed, expreſſing both the Kings mind and practiſe.</p>
+            <p>It is <hi>Nobiſcum &amp; prelatis &amp; magnatibus noſtris
+<pb n="9" facs="tcp:112746:4"/>quos vocari fecimus ſuper premiſſes tractare, &amp; conſil<g ref="char:EOLhyphen"/>lium impendere,</hi> which word <hi>Nobiſcum,</hi> implyeth plainely the Kings preſence.</p>
+            <p>What the ſucceeding practiſe was from the 15th yeer of <hi>Edward</hi> the fourth, the proper Records of this Inquiry (the Journall Bookes being loſt) I am enforced to draw from out the Rolls of Acts wherein ſometimes by chance they are remembred.</p>
+            <p>
+               <hi>Edw:</hi> the ſecond was preſent in Parliament the fifteenth yeer of his Raign, at the complaint againſt the <hi>Spencers,</hi> and at a ſecond Parliament that yeer for the repeale of their baniſhment.</p>
+            <p>In the fourth of <hi>Edward</hi> the third, the KING was preſent at the Accuſation of <hi>Roger Mortimer,</hi> but not the triall, and the next yeere in the Treaty of the <hi>French</hi> Affairs, <hi>Rot. Parl.</hi> 4. <hi>&amp; Rot. P.</hi> 5.</p>
+            <p>In the ſixt yeer, <hi>Intererat Rex in Cauſa, John S. De Gray, &amp; Gulielm De La-Zouch,</hi> and the ſame yeer. 2. <hi>Die Parliamenti,</hi> the King was preſent at the debate about his Voyage into <hi>Scotland.</hi>
+            </p>
+            <p>In the fifteenth yeer, the King in the Painted-Chamber ſitting with the Lords in Conſultation, the Archbiſhop after pardon, prayes, that for bet<g ref="char:EOLhyphen"/>ter cleering himſelfe, he may be tryed in full Par<g ref="char:EOLhyphen"/>liament, which was granted.</p>
+            <p>In the ſeventeenth, <hi>in Camera alba</hi> (now called the Court of <hi>Requeſt</hi>) <hi>Rex cum magnatibus conve<g ref="char:EOLhyphen"/>nimet &amp; comunes ſuper negotiis Regni.</hi>
+            </p>
+            <p>In the tenth yeer of <hi>Rich:</hi> the ſecond, the King departed from the Parliament in ſome diſcontent,
+<pb n="10" facs="tcp:112746:5"/>when after ſome time; Lords were ſent to pray His preſence, and to informe His Majeſty, that if he forbore his preſence amongſt them forty dayes, that then, <hi>ex antiquo Statuto,</hi> they may re<g ref="char:EOLhyphen"/>turn <hi>abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> domigero Regis,</hi> to their ſeverall home.</p>
+            <p>
+               <hi>Henry</hi> the fourth begun his firſt Parliament the firſt of <hi>Novemb.</hi> and was the 27th day of the ſame Moneth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> debate about the Duke of Brittaine, the thirtieth day the cauſe of the Archbiſhop was before him propoſed onely.</p>
+            <p>The third of <hi>November</hi> he was at the debate whether the Commons had right of Judicature yea, or no.</p>
+            <p>On the tenth he was with the Lords in their conſultation about the expedition againſt the <hi>Scots,</hi> the Creation of the Duke of <hi>Lancaſter;</hi> and the prohibition of a new Sect from entring this King<g ref="char:EOLhyphen"/>dome; ſome Ordinances were at this time con<g ref="char:EOLhyphen"/>ſulted of concerning the Stapples, and the ſentence againſt <hi>Haxey</hi> after diſpute revoked.</p>
+            <p>This KING began bis ſecond Parliament the twentieth of January, and on the ninth of Febru<g ref="char:EOLhyphen"/>ary, was preſent to make agreement betwixt the Biſhop of <hi>Norwich</hi> and <hi>Thomas</hi> of <hi>Erpingham.</hi>
+            </p>
+            <p>On the twentieth day of the ſame Moneth, he was preſent at Councell for ſuppreſſing of the <hi>Welſh</hi> Rebells; for revocations of ſtipends, and con<g ref="char:EOLhyphen"/>cerning the <hi>Priors Allens.</hi>
+            </p>
+            <p>On the twenty ſix, they adviſe before the King of the Seſtertian Order.</p>
+            <pb n="11" facs="tcp:112746:5"/>
+            <p>On the ſecond of <hi>March</hi> of the Statute of pro<g ref="char:EOLhyphen"/>viſions, the Keeper of the privy Seale, and relie<g ref="char:EOLhyphen"/>ving of the two Univerſities.</p>
+            <p>On the ninth of <hi>March,</hi> the mediate before the King a Reconciliation betwixt the Earle of <hi>Rut<g ref="char:EOLhyphen"/>land</hi> and the Lord <hi>Fitzwaters.</hi>
+            </p>
+            <p>He alſo began a Parliament in his firſt yeer, upon the tenth of January, and the eighteenth they adviſe before the King of guarding of the Seas, and the <hi>Welſh</hi> Rebellion.</p>
+            <p>On the eight of <hi>February,</hi> the Earle of Nor<g ref="char:EOLhyphen"/>thumberland is charged before the King, and in his preſence, and by his permiſſion, divers of whom he knew no harme, were removed from the Court.</p>
+            <p>The next day at the Petition of the Commons, he tooke upon Him to reconcile the Earles of Northumberland and Weſtmerland: And on the twenty two of <hi>Feb:</hi> Of Northumberland and Dunbar.</p>
+            <p>In a Parliament of the twenty ſeventh of <hi>Hen.</hi> 6th. A challenge of Seat in Parliament, betwixt the Earles of Arundell and Devonſhire was exa<g ref="char:EOLhyphen"/>mined, and appointed by the King with the ad<g ref="char:EOLhyphen"/>viſe of the Lords.</p>
+            <p>In that great Capitall Cauſe of the Duke of Suffolke, 28. <hi>H.</hi> 6. I find not the King once pre<g ref="char:EOLhyphen"/>ſent at the debate; but the Duke appealing from his triall by Peerage to the King, is brought from out the Houſe of Lords to a private Chamber, where
+<pb n="12" facs="tcp:112746:6"/>the King (after the Chancellor in groſſe had de<g ref="char:EOLhyphen"/>clared his offence, and refuſall) Himſelfe, (but not in place of Judgement) adjudged his baniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>By the Rolls of <hi>Edw:</hi> the fourth, It appears that he was many dayes (beſides the firſt to laſt) in Parliament, and there are entered ſome Spee<g ref="char:EOLhyphen"/>ches by him uttered; but that of all the reſt is moſt of marke<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the report, or then preſent tells it thus, of the Duke of Florence, and the King: <hi>Tristis diſceptatio inter duos tantae humanitatis Germannos, Nemo arguit contra Ducem niſi Rex, nemo reſpondet Regi niſi Dux.</hi> Some other teſtimonies were brougt in, with which the Lords were ſatisfied; And ſo <hi>Formarunt meum ſententiam, damnationis,</hi> by the mouth of the Duke of Buckingham, (then Stew<g ref="char:EOLhyphen"/>ard of <hi>England</hi>) All which was much diſtaſted by the Houſe of Commons.</p>
+            <p>The Raigne of <hi>Hen.</hi> the ſeventh affords upon the Rolls no one example (the Journall Bookes being loſt) except ſo much as preſerves the paſſa<g ref="char:EOLhyphen"/>ges of eight dayes, in the 12. of his Raign, in which the King was ſome dayes preſent at de<g ref="char:EOLhyphen"/>bates, and with his own hand, the one and thir<g ref="char:EOLhyphen"/>tieth day of the Parliament, delivered in a Bill of Trade there read; but had the memoriall remained, it is no doubt but he would have beene found as frequent in his great Councell of Parliament, as he was in the Star-chamber, whereby the Regi<g ref="char:EOLhyphen"/>ſter of that Court appeareth, aſwell in debate at
+<pb n="13" facs="tcp:112746:6"/>private cauſes, that touch neither life nor member, as thoſe of publique care; he every yeear of all his Raigne was often preſent.</p>
+            <p>Of <hi>Hen.</hi> 8. Memory hath not beene envious, but if he were not often preſent, peradventure that may be the cauſe of the diſarder, which the learned Recorder <hi>Fleetwood</hi> in his preface to the <hi>Annalls</hi> of <hi>E.</hi> 5. <hi>R.</hi> 3. <hi>Hen.</hi> 7.8. Hath obſer<g ref="char:EOLhyphen"/>ved in the Statutes made in the Kings dayes; for which cauſe he hath ſevered their <hi>Index</hi> from the former, and much lay in the Will of <hi>Wolſey,</hi> who was over unwilling to let that King ſee with his owne eyes.</p>
+            <p>
+               <hi>Edward</hi> the ſixt in reſpect of his young yeers may be well excuſed, but that ſuch was his pur<g ref="char:EOLhyphen"/>poſe appears by a memoriall of his owne hand, who purpoſing the affairs of Councell to ſeverall perſons, reſerved thoſe of greateſt waight to his owne preſence, in theſe words: Theſe to at<g ref="char:EOLhyphen"/>tend the matters of State, that I will ſit with them once a weeke to heare the debating of things of moſt importance.</p>
+            <p>Unfitneſſe by Sex in his two ſucceeding Siſt<g ref="char:EOLhyphen"/>ers to be ſo frequently preſent as their former Anceſtors, led in the ill occaſion of ſuch opini<g ref="char:EOLhyphen"/>on and practiſe.</p>
+            <p>In conſultations of State, and deciſions of private plaints, it is cleer from all times, the King was not onely preſent to advice and heare, but to determine alſo.</p>
+            <pb n="14" facs="tcp:112746:7"/>
+            <p>In the caſes criminall and not of blood, to barre the King a part were to ſeclude him; but the doubt is allowed in crimes meer Capitall; and if in ſuch a caſe the King ſits not, and yet the judgement of the two Houſes be lawfull, why may they not be lawfull in other caſes without the King, ſeeing the King refuſeth to joyne with them?</p>
+            <p>The example in the cauſe of the Duke of Suf<g ref="char:EOLhyphen"/>folke. 28. <hi>H.</hi> 6. Where the King gave judge<g ref="char:EOLhyphen"/>ment, was proteſted againſt by the Lords.</p>
+            <p>That of the Duke of Carence, 6. <hi>E.</hi> 4. Where the Duke of Buckhingham the high Steward, and the Lords gave judgement, was proteſted againſt by the Commons; in both of theſe the King was ſometimes preſent. But which of theſe wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſuit theſe times I dare not gheſſe.</p>
+            <p>However this I dare affirme (as inevitably con<g ref="char:EOLhyphen"/>ſequent from theſe precedent Preſidents, ſo anci<g ref="char:EOLhyphen"/>ently derived unto theſe preſent times,) that the Kings perſonall abſence from the ſtation of higheſt power is inconſiſtant with the power it ſelfe, and ſo long as there is a Triple coordination in that E<g ref="char:EOLhyphen"/>ſtate, to wit, of Supream Judicature there ought to be no perſonall abſence whatſoever, either of Head or Member, eſpecially of the Head, except in caſe of ſickneſſe or the like; for as it is prejudiciall to the power it ſelfe, and incongrous to the nature thereof, ſo it is an infringment of a truſt commit<g ref="char:EOLhyphen"/>ted,
+<pb n="15" facs="tcp:112746:7"/>and of obnoctious conſequence to the Com<g ref="char:EOLhyphen"/>mon wealth, for whoſe good onely thoſe powers that are, are ordained of God. Therefore if the unite exiſtence be taken away, with it the eſſentiall Triplicity or triple being thereof ceaſeth, and thoſe that have thus unnaturally laboured <hi>vi &amp; a mis</hi> to make this Triplicity at odds by this Capitall ſe<g ref="char:EOLhyphen"/>peration, are murtherers of that body whereof He is the Head, which though it be the Receptacle or Cabbinet of the ſences and vitall Spirits, yet the body thus wounded it muſt needs be in a langui<g ref="char:EOLhyphen"/>ſhing and expiring condition; ſo that the Authors of this decollation are the Kings executioners and Butchers of the Kingdome, however their faire pretences for King and Parliament carry another face. Now the power of conſultation and con<g ref="char:EOLhyphen"/>ſent committed to this Judicatury or mixt Monar<g ref="char:EOLhyphen"/>chy, aſwell Head as Members, and the Sword of Juſtice to the unity thereof, it will follow that a voluntary ſeparation or diviſion there from of one or the other, is unwarrantable either by ancient Preſidents or common reaſon, and the party thus ſeperated cannot retain the unity and mixture of that power, for tis impoſſible that that Unity ſhould move out of its Centure of Triplicity, muſt remaine inſeperable (though violated) with them who continue ſtedfaſt in that ſtation; what enor<g ref="char:EOLhyphen"/>mities ſoever accrue upon it or them (which nei<g ref="char:EOLhyphen"/>ther can nor are a few) in caſe of ſuch Diviſion.</p>
+            <pb n="16" facs="tcp:112746:8"/>
+            <p>How neceſſary then the Soveraigns Perſons is required in the preſent Councells or Aſſemblies of the ſtate, aſwell at conſultations as at the conclu<g ref="char:EOLhyphen"/>ſions, let the rationall man judge, and how health<g ref="char:EOLhyphen"/>full to the weale-publicke of the Land, let the bleeding miſeries of our preſent condition tell; Let all therefore who love the good of King or King<g ref="char:EOLhyphen"/>dom, or of themſelves or their poſterity, dayly pray and labour that all inſtigation in this unhap<g ref="char:EOLhyphen"/>py deviſion, both of one ſide and the other may ceaſe; that welcome PEACE may ſet a period to this diviſion: and that through a bleſſed Uni<g ref="char:EOLhyphen"/>on, both preſent and ſucceeding Ages, <hi>May behold No Parliament without A KING.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
